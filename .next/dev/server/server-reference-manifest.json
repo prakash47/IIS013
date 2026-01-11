@@ -1,0 +1,21 @@
+{
+  "node": {
+    "60c0ebab01b3a127d88529655d8b838a1f9291d3e1": {
+      "workers": {
+        "app/get-involved/page": {
+          "moduleId": "[project]/.next-internal/server/app/get-involved/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/volunteer.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "submitVolunteer",
+          "filename": "actions/volunteer.ts"
+        }
+      },
+      "layer": {
+        "app/get-involved/page": "action-browser"
+      },
+      "filename": "actions/volunteer.ts",
+      "exportedName": "submitVolunteer"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "ncTFKWZO0Hu5p1hIlk1w62IwixSmOmetLqKR3HHC4c8="
+}

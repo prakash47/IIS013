@@ -1,0 +1,5 @@
+
+> roshni-foundation@0.1.0 lint
+> next lint
+
+Invalid project directory provided, no such directory: C:\Users\Sapt Dubey\Documents\GitHub\IIS013\lint

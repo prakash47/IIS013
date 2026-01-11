@@ -1,0 +1,9 @@
+{
+  "/donate/page": "app/donate/page.js",
+  "/get-involved/page": "app/get-involved/page.js",
+  "/our-impact/page": "app/our-impact/page.js",
+  "/our-mission/page": "app/our-mission/page.js",
+  "/page": "app/page.js",
+  "/programs/mentorship/page": "app/programs/mentorship/page.js",
+  "/programs/scholarships/page": "app/programs/scholarships/page.js"
+}

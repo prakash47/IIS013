@@ -1,0 +1,6 @@
+components/VolunteerForm.tsx(30,45): error TS2339: Property 'errors' does not exist on type '{ success: boolean; message: string; }'.
+components/VolunteerForm.tsx(30,67): error TS2339: Property 'errors' does not exist on type '{ success: boolean; message: string; }'.
+components/VolunteerForm.tsx(31,44): error TS2339: Property 'errors' does not exist on type '{ success: boolean; message: string; }'.
+components/VolunteerForm.tsx(39,45): error TS2339: Property 'errors' does not exist on type '{ success: boolean; message: string; }'.
+components/VolunteerForm.tsx(39,68): error TS2339: Property 'errors' does not exist on type '{ success: boolean; message: string; }'.
+components/VolunteerForm.tsx(40,44): error TS2339: Property 'errors' does not exist on type '{ success: boolean; message: string; }'.

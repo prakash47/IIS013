@@ -1,0 +1,44 @@
+
+> roshni-foundation@0.1.0 build
+> next build
+
+   ▲ Next.js 16.0.10 (Turbopack)
+   - Experiments (use with caution):
+     · serverActions
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 4.3s
+   Running TypeScript ...
+   Collecting page data using 15 workers ...
+Error: Failed to collect configuration for /
+    at ignore-listed frames {
+  [cause]: TypeError: f.default.createContext is not a function
+      at instantiateModule (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:715:9)
+      at getOrInstantiateModuleFromParent (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:738:12)
+      at Context.esmImport [as i] (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:228:20)
+      at module evaluation (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\_c7bc520b._.js:1:2400)
+      at instantiateModule (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:715:9)
+      at getOrInstantiateModuleFromParent (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:738:12)
+      at Context.esmImport [as i] (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:228:20)
+      at module evaluation (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\_37435df3._.js:1:33)
+      at instantiateModule (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:715:9)
+}
+Error: Failed to collect configuration for /donate
+    at ignore-listed frames {
+  [cause]: TypeError: f.default.createContext is not a function
+      at instantiateModule (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:715:9)
+      at getOrInstantiateModuleFromParent (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:738:12)
+      at Context.esmImport [as i] (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:228:20)
+      at module evaluation (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\_9cd39e8e._.js:1:205)
+      at instantiateModule (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:715:9)
+      at getOrInstantiateModuleFromParent (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:738:12)
+      at Context.esmImport [as i] (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:228:20)
+      at module evaluation (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\_27b600cc._.js:1:33)
+      at instantiateModule (C:\Users\Sapt Dubey\Documents\GitHub\IIS013\.next\server\chunks\ssr\[turbopack]_runtime.js:715:9)
+}
+
+> Build error occurred
+Error: Failed to collect page data for /
+    at ignore-listed frames {
+  type: 'Error'
+}
